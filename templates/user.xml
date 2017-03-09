@@ -1,0 +1,31 @@
+<templateSet group="user">
+  <template name="ajs" value="alert(JSON.stringify($object$));" description="alert显示对象的JSON字符串" toReformat="true" toShortenFQNames="true">
+    <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ift" value="&lt;if test=&quot;$param$ != null and $param$ != ''&quot;&gt;&#10;    $END$&#10;&lt;/if&gt;" description="mybatis-测试参数是否为空" toReformat="true" toShortenFQNames="true">
+    <variable name="param" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="dlog" value="private org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(this.getClass());" description="声明logger对象" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="qui:box2" value="&lt;div class=&quot;box2&quot; showStatus=&quot;true&quot; startState=&quot;open&quot; statusText=&quot;打开&quot; afterStatusText=&quot;隐藏&quot; panelTitle=&quot;查询&quot;&gt; &#10;    $END$&#10;&lt;/div&gt;" description="插入QUI的box2模型" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="a" value="alert($object$);" description="alert" toReformat="true" toShortenFQNames="true">
+    <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

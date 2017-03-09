@@ -1,0 +1,9 @@
+<toolSet name="TortoiseSVN">
+  <tool name="Show Log" showInMainMenu="true" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:log /path:$FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
