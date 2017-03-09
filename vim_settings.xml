@@ -1,15 +1,32 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/work/wiciotplatform/src/main/java/com/fencer/wiciot/manage/service/impl/ManageServiceImpl.java" timestamp="1489031354422" />
+      <file name="D:/work/wiciotplatform/src/main/webapp/pages/manage/IrrigateInfo-Adjust.jsp" timestamp="1489032036237">
+        <mark key="[" line="90" column="27" />
+        <mark key="]" line="222" column="63" />
+        <mark key="." line="222" column="63" />
+        <mark key="^" line="222" column="63" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
