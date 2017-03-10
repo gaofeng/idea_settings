@@ -1,4 +1,4 @@
 <list display="Development">
   <action id="Compare.SameVersion" />
-  <action id="Tool_TortoiseSVN_Show Log" />
+  <action id="Tool_TortoiseSVN_TortoiseSVN Log" />
 </list>
