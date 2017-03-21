@@ -5,4 +5,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="A" value="&quot;$SELECTION$&quot;" description="Surround with &quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
 </templateSet>
