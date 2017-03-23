@@ -8,8 +8,8 @@
   <template name="ift" value="&lt;if test=&quot;$param$ != null and $param$ != ''&quot;&gt;&#10;    $END$&#10;&lt;/if&gt;" description="mybatis-测试参数是否为空" toReformat="true" toShortenFQNames="true">
     <variable name="param" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="XML_TEXT" value="true" />
       <option name="SQL" value="true" />
+      <option name="XML_TEXT" value="true" />
     </context>
   </template>
   <template name="dlog" value="private org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(this.getClass());" description="声明logger对象" toReformat="true" toShortenFQNames="true">
@@ -36,8 +36,8 @@
   </template>
   <template name="map" value="java.util.Map&lt;java.lang.String, java.lang.Object&gt; param = new java.util.HashMap&lt;java.lang.String, java.lang.Object&gt;();" description="Map&lt;String,Object&gt;" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
