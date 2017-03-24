@@ -1,9 +1,10 @@
 <scheme name="White Theme" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Hasklig" />
   <attributes>
     <option name="TEXT">
       <value>
