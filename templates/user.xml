@@ -41,4 +41,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="user" value="com.fencer.wiciot.system.bean.UserBean user = (com.fencer.wiciot.system.bean.UserBean)this.getSession().getAttribute(com.fencer.wiciot.util.SystemCons.SESSION_LOGINED_USER);" description="从Session获取UserBean" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
