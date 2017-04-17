@@ -54,4 +54,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="set" value="$col$ = #{$col$},$END$" description="设置字段" toReformat="true" toShortenFQNames="false">
+    <variable name="col" expression="" defaultValue="&quot;col&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
