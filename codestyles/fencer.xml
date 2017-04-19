@@ -44,8 +44,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
