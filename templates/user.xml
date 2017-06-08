@@ -66,12 +66,11 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="cp" value="${pageContext.request.contextPath}" description="上下文路径" toReformat="true" toShortenFQNames="true">
+  <template name="cp" value="&quot;${pageContext.request.contextPath}$END$&quot;" description="上下文路径" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JSX_HTML" value="false" />
-      <option name="JS_STATEMENT" value="false" />
+      <option name="JSP" value="true" />
     </context>
   </template>
   <template name="logger" value="private static final org.apache.logging.log4j.Logger logger = org.apache.logging.log4j.LogManager.getLogger($CLASS$.class);" description="生成logger成员" toReformat="true" toShortenFQNames="true">
