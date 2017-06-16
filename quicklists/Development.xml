@@ -1,5 +1,6 @@
 <list display="Development">
   <action id="Compare.SameVersion" />
+  <action id="ToggleDistractionFreeMode" />
   <action id="Tool_TortoiseSVN_TortoiseSVN Log" />
   <action id="LocalHistory.ShowHistory" />
 </list>
