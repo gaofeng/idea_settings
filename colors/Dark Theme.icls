@@ -1,12 +1,12 @@
 <scheme name="Dark Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-06-15T15:17:02</property>
+    <property name="modified">2017-06-23T15:17:59</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
+  <option name="EDITOR_FONT_NAME" value="M+ 1m" />
 </scheme>
