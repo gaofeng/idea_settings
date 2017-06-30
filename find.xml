@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="AppFile" />
     <option name="defaultScopeName" value="AppFile" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="AppFile" />
     <recentFileMasks>
       <mask>*.properties</mask>
