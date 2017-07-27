@@ -3,6 +3,7 @@
     <option name="customScope" value="AppFile" />
     <option name="defaultScopeName" value="AppFile" />
     <option name="SEARCH_SCOPE" value="AppFile" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -10,13 +11,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.jsp</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
