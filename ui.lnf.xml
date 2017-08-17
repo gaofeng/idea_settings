@@ -12,6 +12,7 @@
     <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="577" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
