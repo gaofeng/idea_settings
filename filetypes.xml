@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="ModelBasicInfoMapper.xml" type="XML" />
-      <mapping pattern=".editorconfig" type="XML" />
-    </extensionMap>
-  </component>
-</application>
